@@ -1,26 +1,26 @@
 ﻿  Source.cpp
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(95): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(95): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(168): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(208): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(210): warning C4305: '*=': truncation from 'double' to 'float'
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(211): warning C4305: '*=': truncation from 'double' to 'float'
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(253): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(258): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(284): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(351): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(356): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(454): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(455): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\galaga\galaga\source.cpp(462): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Galaga.vcxproj -> C:\Users\crbro\Desktop\misc code\Programs\repos\Galaga\Debug\Galaga.exe
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(95): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(95): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(168): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(208): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(210): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(211): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(253): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(258): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(284): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(351): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(356): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(454): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(455): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\galaga\galaga\source.cpp(462): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Galaga.vcxproj -> C:\Users\crbro\Documents\GitHub\Portfolio\Various SDL programs\Galaga\Debug\Galaga.exe

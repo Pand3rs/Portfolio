@@ -1,0 +1,5 @@
+﻿  main_SDL_sprites_and_text.cpp
+c:\users\crbro\desktop\master tomigotchi project\sdl_textures\sdl_template\main_sdl_sprites_and_text.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\crbro\desktop\master tomigotchi project\sdl_textures\sdl_template\main_sdl_sprites_and_text.cpp(65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\crbro\desktop\master tomigotchi project\sdl_textures\sdl_template\main_sdl_sprites_and_text.cpp(220): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  sdl_template.vcxproj -> C:\Users\crbro\Desktop\Master tomigotchi project\sdl_textures\Debug\sdl_template.exe

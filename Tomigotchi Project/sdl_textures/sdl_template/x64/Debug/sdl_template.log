@@ -1,0 +1,24 @@
+﻿  main_SDL_sprites_and_text.cpp
+c:\users\crbro\documents\github\levent_development\introduction_to_programming\sdl_textures\sdl_template\main_sdl_sprites_and_text.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\crbro\documents\github\levent_development\introduction_to_programming\sdl_textures\sdl_template\main_sdl_sprites_and_text.cpp(153): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\crbro\documents\github\levent_development\introduction_to_programming\sdl_textures\sdl_template\main_sdl_sprites_and_text.cpp(171): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\crbro\documents\github\levent_development\introduction_to_programming\sdl_textures\sdl_template\main_sdl_sprites_and_text.cpp(172): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_GetKeyboardState referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_SetTextureAlphaMod referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_RenderCopyEx referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function SDL_main
+main_SDL_sprites_and_text.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+SDL2-2.0.9\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+SDL2-2.0.9\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+SDL2-2.0.9\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\crbro\Documents\GitHub\Levent_Development\introduction_to_programming\sdl_textures\x64\Debug\sdl_template.exe : fatal error LNK1120: 15 unresolved externals

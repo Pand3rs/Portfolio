@@ -1,10 +1,10 @@
 ﻿  Source.cpp
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(83): warning C4552: '-': result of expression not used
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(84): warning C4552: '-': result of expression not used
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(93): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
-c:\users\crbro\desktop\misc code\programs\repos\dod\project3-10_2\source.cpp(93): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  Project3-10_2.vcxproj -> C:\Users\crbro\Desktop\misc code\Programs\repos\DoD\Debug\ProjectDoD.exe
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(83): warning C4552: '-': result of expression not used
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(84): warning C4552: '-': result of expression not used
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(93): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\crbro\documents\github\portfolio\various sdl programs\dod\project3-10_2\source.cpp(93): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project3-10_2.vcxproj -> C:\Users\crbro\Documents\GitHub\Portfolio\Various SDL programs\DoD\Debug\ProjectDoD.exe
